@@ -1,0 +1,8 @@
+# Core Framework - Contains CVE-2019-14234 (RCE vector)
+django==2.2.0
+
+# HTTP Transport Utility - Contains CVE-2023-32681 (Leakage risk)
+requests   ==   2.28.1
+
+# Async Routing Core - Clean package baseline
+fastapi==0.100.0

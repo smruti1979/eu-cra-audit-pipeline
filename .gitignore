@@ -1,0 +1,11 @@
+# Local cache folders
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Isolated multi-user file workspace folders
+ui_uploaded_workspace/
+mock_app/
+
+# Local configuration files containing hidden api secrets
+.env

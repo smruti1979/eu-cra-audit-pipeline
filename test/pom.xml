@@ -1,0 +1,15 @@
+<dependencies>
+    <!-- Log4j Logging Engine Core - Contains CVE-2021-44228 (Log4Shell RCE) -->
+    <dependency>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-core</artifactId>
+        <version>2.14.1</version>
+    </dependency>
+
+    <!-- Alternative Runtime Component Hook - Clean module package baseline -->
+    <dependency>
+        <groupId>org.json</groupId>
+        <artifactId>json</artifactId>
+        <version>20230227</version>
+    </dependency>
+</dependencies>
