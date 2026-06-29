@@ -63,7 +63,7 @@ The pipeline breaks away from brittle, monolithic script scanners by treating co
 
 ### 1. Clone the Codebase
 ```bash
-git clone https://github.com](https://github.com/smruti1979/eu-cra-audit-pipeline.git
+git clone https://github.com/smruti1979/eu-cra-audit-pipeline.git
 cd eu-cra-audit-pipeline
 ```
 
